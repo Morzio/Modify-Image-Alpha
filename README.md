@@ -19,4 +19,4 @@ By default it is left *unchecked*.
 4) Click on the *drop-down* button on the top right.
 5) Select *Install from Disk*
 6) Navigate to the .zip location.
-7) Select the ***Modify_Image_Alpha.zip***
+7) Select the ***Modify-Image-Alpha-main.zip***
